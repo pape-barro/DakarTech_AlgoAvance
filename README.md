@@ -3,7 +3,7 @@
  * ##  Algorithmique avancé et C++
  
  ``` - Organisation du travail(48h): ```
- * ## Cours magistral : 24h ;
+ * ### Cours magistral : 24h ;
  * TD/TP : 24h ;
  
 ``` - Evaluation: ```
