@@ -1,6 +1,6 @@
 # Année scolaire 2023-2024
  * ##  DakarTech  
- * ##  Algorithmique avancée et C++
+ * ##  Algorithmique avancé et C++
  
  ``` - Organisation du travail(48h): ```
  * ## Cours magistral : 24h ;
