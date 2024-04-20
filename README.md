@@ -21,4 +21,4 @@
  # ``` Contenu: ```
  1. [`Généralites, Rappel sur les bases, ..., Tableaux et pointeurs `](https://github.com/pape-barro/DakarTech_AlgoAvance/blob/main/cours-dt-p1.pdf) - ``` 16 Mars 2024 ``` ;
  2. [`Fonction, Récursivité, Algorithmes de Tri et de recherche`](https://github.com/pape-barro/DakarTech_AlgoAvance/blob/main/cours-dt-p2.pdf) - ``` 23 et 30 Mars 2024 ``` ;
- 3. [`Fichiers, Structures, Listes chainées - Piles - Files`]() - ``` 19 Mars 2024 ```;
+ 3. [`Fichiers, Structures, Listes chainées - Piles - Files`](https://github.com/pape-barro/DakarTech_AlgoAvance/blob/main/cours-dt-p3.pdf) - ``` 19 Mars - 20 Avril 2024 ```;
